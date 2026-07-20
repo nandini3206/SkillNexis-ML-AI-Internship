@@ -1,6 +1,6 @@
 # Week 2 - Classification Models
 
-This folder contains the Week 2 assignments and mini project completed as part of the SkillNexis Machine Learning & AI Internship.
+This folder contains the Week 2 assignments and mini project completed as part of the **BeeSkilled** Machine Learning & AI Internship.
 
 ## Topics Covered
 
